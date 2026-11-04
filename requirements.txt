@@ -1,0 +1,7 @@
+gunicorn
+Flask==2.3.3
+tensorflow
+Pillow
+numpy
+Werkzeug
+opencv-python
